@@ -1,6 +1,6 @@
-# Your Project Name
+# Face classification
 
-Brief description of your project.
+AI model for face classification, for hns-re2sd students
 
 ## Project Structure
 
@@ -28,4 +28,3 @@ Provide instructions on how to run and use your code.
 ## Dependencies
 
 List the dependencies required for your project. Include versions if necessary.
-
