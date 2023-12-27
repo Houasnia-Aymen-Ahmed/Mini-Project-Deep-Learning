@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+
+# Compiled source
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.~*
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Model weights and plots
+Results/Model_Weights/
+Results/Plots/
+
+# Ignore dataset images if they are large and can be regenerated
+Dataset/
+
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
