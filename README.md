@@ -23,8 +23,24 @@ AI model for face classification, for hns-re2sd students
 
 ## Usage
 
-Provide instructions on how to run and use your code.
+- Download the repo as zip, or clone it using:
+
+`git clone "https://github.com/Houasnia-Aymen-Ahmed/Mini-Project-Deep-Learning.git"`
+
+- Create a new virtual environment using:
+`python -m venv venv`
+
+- Activate the environemt using:
+  - `.\venv\Scripts\activate` for windows
+  - `source venv/bin/activate` for mac
+
+- Install requirements using:
+- `pip install -r requirements.txt`
 
 ## Dependencies
 
 List the dependencies required for your project. Include versions if necessary.
+
+## Team
+- **Chemmami Abdrezak**
+- **Houasnia Aymen Ahmed**
