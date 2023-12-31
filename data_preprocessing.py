@@ -20,6 +20,7 @@ def load_data(dataset_path, labels_path, test_size=0.2, random_state=42):
 
     return x_train, x_val, y_train, y_val, dict(zip(labels_df['label'], labels_df['label']))
 
+
 def load_and_preprocess_images(file_paths, target_size):
     images = []
     for file_path in file_paths:

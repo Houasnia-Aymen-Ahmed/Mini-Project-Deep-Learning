@@ -3,11 +3,11 @@
 class Config:
     # Model parameters
     input_shape = (224, 224, 3)  # Input shape of the images (height, width, channels)
-    num_classes = 7  # Number of classes (students)
+    num_classes = 14  # Number of classes (students)
 
     # Training parameters
     batch_size = 12
-    epochs = 100
+    epochs = 10
     learning_rate = 0.001
 
     # Regularization parameters
